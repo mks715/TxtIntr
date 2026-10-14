@@ -1,0 +1,13 @@
+
+# Executable file
+calculator
+
+# Object and temporary files
+*.o
+*.out
+*.exe
+
+# IDE files
+.codelite/
+*.workspace
+*.project
